@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+
+    <!-- =================================================== -->
+    <!-- ===             ИНТЕРФЕЙС ОБЫСКА                  === -->
+    <!-- =================================================== -->
+    <string id="ui_inv_take_all">
+        <text>Спиздить всё</text>
+    </string>
+    <string id="ui_st_take_all">
+        <text>Спиздить всё</text>
+    </string>
+    <string id="ui_st_take_all_hint">
+        <text>Забрать всё себе в карман</text>
+    </string>
+
+    <!-- =================================================== -->
+    <!-- ===        БЛАТНАЯ ВАЛЮТА ДЛЯ ПАЦАНОВ              === -->
+    <!-- =================================================== -->
+    <string id="ui_st_money_regional">
+        <text> лавэ</text>
+    </string>
+    <string id="st_rubles">
+        <text>лавэ</text>
+    </string>
+
+    <!-- =================================================== -->
+    <!-- ===           ЭКРАН ЗАГРУЗКИ (БЛАТНОЙ)            === -->
+    <!-- =================================================== -->
+    <string id="ls_synchronizing">
+        <text>Посаны чистят семки...</text>
+    </string>
+    <string id="ls_loading_textures">
+        <text>Разлив Похмелятора по стаканам...</text>
+    </string>
+    <string id="ls_server_starting">
+        <text>Шорох в кустах на районе...</text>
+    </string>
+    <string id="ls_loading_geometry">
+        <text>Раскладывание ковров у костра...</text>
+    </string>
+    <string id="ls_loading_spatial_db">
+        <text>Шмон карманов Лютых поцев...</text>
+    </string>
+    <string id="ls_loading_details">
+        <text>Подсчёт оставшихся яиц после водяры...</text>
+    </string>
+
+</string_table>

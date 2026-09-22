@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+
+    <!-- === ПОЛНЫЙ ИСПРАВЛЕННЫЙ ЭКРАН ЗАГРУЗКИ ДЛЯ ЗОВА ПРИПЯТИ / ГАНСА === -->
+    
+    <!-- Стадия 1: Самый старт загрузки сейва -->
+    <string id="st_loading">
+        <text>Шорох в кустах на районе...</text>
+    </string>
+    <string id="st_loading_dynamic">
+        <text>Разлив Похмелятора по стаканам...</text>
+    </string>
+
+    <!-- Стадия 2: Загрузка геометрии локации и текстур -->
+    <string id="st_loading_geometry">
+        <text>Раскладывание ковров у костра...</text>
+    </string>
+    <string id="st_loading_texture">
+        <text>Разлив Похмелятора по стаканам...</text>
+    </string>
+
+    <!-- Стадия 3: Загрузка симуляции и ИИ -->
+    <string id="st_loading_se_objects">
+        <text>Бешеный танкист прогревает КВ-2 в подвале кликуха его бюрер...</text>
+    </string>
+    <string id="st_loading_ai_objects">
+        <text>Бешеный танкист прогревает КВ-2 в подвале кликуха его бюрер...</text>
+    </string>
+
+    <!-- Стадия 4: Загрузка шейдеров и порталов -->
+    <string id="st_loading_sectors_portals">
+        <text>Шмон карманов Лютых поцев...</text>
+    </string>
+    <string id="st_loading_details">
+        <text>Подсчёт оставшихся яиц после водяры...</text>
+    </string>
+
+    <!-- Стадия 5: Финальная синхронизация перед кнопкой Клиент -->
+    <string id="st_client_synchronization">
+        <text>Посаны чистят семки...</text>
+    </string>
+    <string id="st_client_synchronising">
+        <text>Посаны чистят семки...</text>
+    </string>
+
+</string_table>

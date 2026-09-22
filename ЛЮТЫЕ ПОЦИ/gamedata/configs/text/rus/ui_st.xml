@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+
+    <!-- === КНОПКИ ЭКРАНА ЗАГРУЗКИ / СОХРАНЕНИЯ === -->
+    <string id="ui_mm_load">
+        <text>Очнуться (Загрузить)</text>
+    </string>
+    <string id="ui_mm_delete">
+        <text>Стереть косяк (Удалить)</text>
+    </string>
+
+    <!-- === НАЗВАНИЯ ТЕХНИЧЕСКИХ АВТОСОХРАНЕНИЙ === -->
+    <string id="st_save_zat_a1_game_start">
+        <text>прибыл на локу Кардан</text>
+    </string>
+    <string id="st_save_zat_a2_reached_skadovsk">
+        <text>добрался до пивбара</text>
+    </string>
+    <string id="st_save_uni_surge_start">
+        <text>шухер, Выброс начался</text>
+    </string>
+    <string id="st_save_uni_travel_generic">
+        <text>переход по понятиям</text>
+    </string>
+
+    <!-- === РАСШИРЕННЫЕ НАСТРОЕКИ ГРАФИКИ (ИСПРАВЛЕНИЕ СКРИНШОТА) === -->
+    <string id="ui_mm_vis_distance">
+        <text>Дальность зоркости (Дальность видимости)</text>
+    </string>
+    <string id="ui_mm_geometry_lod">
+        <text>Детализация падиков (Детализация объектов)</text>
+    </string>
+    <string id="ui_mm_texture_quality">
+        <text>Чёткость прорисовки Abibas (Качество текстур)</text>
+    </string>
+    <string id="ui_mm_anisotropic">
+        <text>Чёткость под углом (Анизотропная фильтрация)</text>
+    </string>
+    <string id="ui_mm_supersample">
+        <text>Сглаживание косяков (Суперсэмплинг)</text>
+    </string>
+    <string id="ui_mm_detail_density">
+        <text>Густота травы у дома (Плотность травы)</text>
+    </string>
+    <string id="ui_mm_npc_torch">
+        <text>Фонарики для Лютых поцев (Фонари NPC)</text>
+    </string>
+    <string id="ui_mm_r1_detail_textures">
+        <text>Детальные текстуры (Для старых ПК)</text>
+    </string>
+    <string id="ui_mm_vsync">
+        <text>Плавность кадра (Вертикальная синхронизация)</text>
+    </string>
+    <string id="ui_mm_60_hz">
+        <text>Частота 60 Гц (Для старых мониторов)</text>
+    </string>
+    <string id="ui_mm_simply">
+        <text>По-простому (Базовые настройки)</text>
+    </string>
+
+</string_table>

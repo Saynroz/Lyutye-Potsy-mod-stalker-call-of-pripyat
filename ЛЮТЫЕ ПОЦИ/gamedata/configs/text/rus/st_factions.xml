@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+
+    <!-- === ЛЮТЫЕ ПОЦЫ === -->
+    <string id="stalker">
+        <text>Лютые поцы</text>
+    </string>
+    <string id="stalkers">
+        <text>Лютые поцы</text>
+    </string>
+    <string id="stalker_d">
+        <text>Лютым поцам</text>
+    </string>
+    <string id="stalker_g">
+        <text>Лютых поцев</text>
+    </string>
+    <string id="stalker_p">
+        <text>Лютых поцах</text>
+    </string>
+    <string id="stalker_t">
+        <text>Лютыми поцами</text>
+    </string>
+    <string id="st_faction_stalker">
+        <text>Лютые поцы</text>
+    </string>
+    <string id="st_faction_stalkers">
+        <text>Лютые поцы</text>
+    </string>
+    <string id="st_faction_stalker_descr">
+        <text>Обычные ровные посаны, которые пришли в Зону заработать на жизнь. Копают артефакты, отбиваются от Мразей, делят хабар по чесноку. Настоящие лютые пацаны! Только Гопники считают этих поцев какими-то сопливыми дебилами и постоянно шпанают их карманы на Шевченко.</text>
+    </string>
+
+    <!-- === ГОПНИКИ === -->
+    <string id="bandit">
+        <text>Гопники</text>
+    </string>
+    <string id="bandits">
+        <text>Гопники</text>
+    </string>
+    <string id="bandit_d">
+        <text>Гопникам</text>
+    </string>
+    <string id="bandit_g">
+        <text>Гопников</text>
+    </string>
+    <string id="bandit_p">
+        <text>Гопниках</text>
+    </string>
+    <string id="bandit_t">
+        <text>Гопниками</text>
+    </string>
+    <string id="st_faction_bandit">
+        <text>Гопники</text>
+    </string>
+    <string id="st_faction_bandits">
+        <text>Гопники</text>
+    </string>
+    <string id="st_faction_bandit_descr">
+        <text>Представители криминального мира, прибывшие в Зону ради лёгкой наживы: отжима хабара, продажи палёной водки и сбора дани со сталкеров. Любят сидеть на кортах у костра, слушать блатняк и стрелять с бедра. Обходят стороной «Гоп-стоп» (хотя сами его и устраивают).</text>
+    </string>
+
+    <!-- === МРАЗИ === -->
+    <string id="killer">
+        <text>Мрази</text>
+    </string>
+    <string id="killers">
+        <text>Мрази</text>
+    </string>
+    <string id="killer_d">
+        <text>Мразям</text>
+    </string>
+    <string id="killer_g">
+        <text>Мразей</text>
+    </string>
+    <string id="killer_p">
+        <text>Мразях</text>
+    </string>
+    <string id="killer_t">
+        <text>Мразями</text>
+    </string>
+    <string id="st_faction_killer">
+        <text>Мрази</text>
+    </string>
+    <string id="st_faction_killers">
+        <text>Мрази</text>
+    </string>
+    <string id="st_faction_killer_descr">
+        <text>Самая подлая и скрытная группировка в Зоне. Продадут родную мать за контейнер с артефактами. Стреляют в спину, крысят у учёных на Янове и постоянно портят жизнь честным сталкерам. Настоящие выблядки без чести и совести.</text>
+    </string>
+
+    <!-- === ВЫБЛЯДКИ === -->
+    <string id="monolith">
+        <text>Выблядки</text>
+    </string>
+    <string id="monoliths">
+        <text>Выблядки</text>
+    </string>
+    <string id="st_faction_monolith">
+        <text>Выблядки</text>
+    </string>
+    <string id="st_faction_monolith_descr">
+        <text>Отбитые наглухо фанатики, которые молятся на кусок светящегося мусора в центре Зоны. Настоящие выблядки — договориться с ними нельзя, они просто прут напролом и орут свои упоротые молитвы.</text>
+    </string>
+
+    <!-- === АЛКАШИ === -->
+    <string id="zombied">
+        <text>Алкаши</text>
+    </string>
+    <string id="zombieds">
+        <text>Алкаши</text>
+    </string>
+    <string id="st_faction_zombied">
+        <text>Алкаши</text>
+    </string>
+    <string id="st_faction_zombied_descr">
+        <text>Бывшие пацаны, которые так дико набухались палёной водяры, что Выжигатель мозгов просто срезонировал с их перегаром. В итоге у бедолаг наглухо закоротило остатки серого вещества. Теперь они бродят толпами, агрессивно мычат, ищут, где бы догнаться, и стреляют во всё, что движется.</text>
+    </string>
+
+    <!-- === ДОЛГ И СВОБОДА === -->
+    <string id="st_faction_dolg_descr">
+        <text>Военизированная группировка, которая строит из себя элитный спецназ. Живут строго по уставу, круглосуточно чистят стволы и орут в мегафон про защиту мира от заразы Зоны. Главные враги палёной водяры «Похмелятор» — пытаются установить в Зоне сухой закон, из-за чего их душные лекции никто на Янове терпеть не может.</text>
+    </string>
+    <string id="st_faction_freedom_descr">
+        <text>Анархисты и раздолбаи, которые считают, что Зона — это общий бесплатный заповедник. Вечно воюют с Долгом за право ходить без касок и не сдавать рапорты. Любые запасы палёного «Похмелятора» уничтожают путём немедленного употребления внутрь. Половина их базы на Янове перманентно находится в состоянии «Похмелиться».</text>
+    </string>
+
+</string_table>

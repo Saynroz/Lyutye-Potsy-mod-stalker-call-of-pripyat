@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+
+    <!-- === КНОПКИ ГЛАВНОГО МЕНЮ ГАНСЛИНГЕРА === -->
+    <string id="ui_mm_newgame">
+        <text>Уйти в запой (Новая игра)</text>
+    </string>
+    <string id="ui_mm_new_game">
+        <text>Уйти в запой (Новая игра)</text>
+    </string>
+    <string id="ui_mm_load_game">
+        <text>Пробудиться (Загрузить игру)</text>
+    </string>
+    <string id="ui_mm_load_game_n">
+        <text>Пробудиться (Загрузить игру)</text>
+    </string>
+    <string id="ui_mm_quick_load">
+        <text>Быстро пробудиться</text>
+    </string>
+    <string id="ui_mm_save_game">
+        <text>Похмелиться (Сохранить игру)</text>
+    </string>
+    <string id="ui_mm_network_game">
+        <text>Стрелка на районе (Мультиплеер)</text>
+    </string>
+    <string id="ui_mm_options_n">
+        <text>Настроить приход (Опции)</text>
+    </string>
+    <string id="ui_mm_options">
+        <text>Настроить приход (Опции)</text>
+    </string>
+    <string id="ui_mm_credits">
+        <text>Соучастники (Авторы)</text>
+    </string>
+    <string id="ui_mm_quit2windows">
+        <text>Вернуться в реальность (Выход)</text>
+    </string>
+    <string id="ui_mm_quit_windows">
+        <text>Вернуться в реальность (Выход)</text>
+    </string>
+    <string id="ui_mm_quit">
+        <text>Вернуться в реальность (Выход)</text>
+    </string>
+    <string id="ui_mm_quit_game">
+        <text>Выйти на Скадовск (В меню)</text>
+    </string>
+    <string id="ui_mm_disconnect">
+        <text>Бросить поцов</text>
+    </string>
+
+    <!-- === СЛОЖНОСТЬ (СТЕПЕНЬ ОПЬЯНЕНИЯ) === -->
+    <string id="ui_mm_difficulty">
+        <text>Выбери степень опьянения:</text>
+    </string>
+    <string id="ui_mm_novice">
+        <text>Трезвый как стёклышко (Новичок)</text>
+    </string>
+    <string id="ui_mm_gd_novice">
+        <text>Трезвый как стёклышко (Новичок)</text>
+    </string>
+    <string id="ui_mm_stalker">
+        <text>Слегка поддатый (Сталкер)</text>
+    </string>
+    <string id="ui_mm_gd_stalker">
+        <text>Слегка поддатый (Сталкер)</text>
+    </string>
+    <string id="ui_mm_veteran">
+        <text>В хлам бухой (Ветеран)</text>
+    </string>
+    <string id="ui_mm_gd_veteran">
+        <text>В хлам бухой (Ветеран)</text>
+    </string>
+    <string id="ui_mm_master">
+        <text>В сопли, до выпадения яиц (Мастер)</text>
+    </string>
+    <string id="ui_mm_gd_master">
+        <text>В сопли, до выпадения яиц (Мастер)</text>
+    </string>
+    <string id="ui_mm_back">
+        <text>Вернуться в меню</text>
+    </string>
+
+    <!-- === ПОДТВЕРЖДЕНИЕ ВЫХОДА === -->
+    <string id="ui_mm_quit_windows_message">
+        <text>Ты реально хочешь бросить Лютых поцев и вернуться к унылой трезвой жизни?</text>
+    </string>
+    <string id="ui_mm_quit_windows_explanation">
+        <text>Ты реально хочешь бросить Лютых поцев и вернуться к унылой трезвой жизни?</text>
+    </string>
+    <string id="ui_mm_quit_game_message">
+        <text>Реально хочешь завязать и выйти из игры?</text>
+    </string>
+    <string id="Btn_Yes">
+        <text>Да, задолбало</text>
+    </string>
+    <string id="Btn_No">
+        <text>Не, я ещё накачу</text>
+    </string>
+    <string id="ui_mm_yes">
+        <text>Да, задолбало</text>
+    </string>
+    <string id="ui_mm_no">
+        <text>Не, я ещё накачу</text>
+    </string>
+
+</string_table>

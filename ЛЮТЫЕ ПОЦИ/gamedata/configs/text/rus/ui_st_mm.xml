@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+
+    <!-- === КНОПКИ ГЛАВНОГО МЕНЮ ГАНСЛИНГЕРА === -->
+    <string id="ui_mm_newgame">
+        <text>Уйти в запой (Новая игра)</text>
+    </string>
+    <string id="ui_mm_new_game">
+        <text>Уйти в запой (Новая игра)</text>
+    </string>
+    <string id="ui_mm_load_game">
+        <text>Пробудиться (Загрузить игру)</text>
+    </string>
+    <string id="ui_mm_load_game_n">
+        <text>Пробудиться (Загрузить игру)</text>
+    </string>
+    <string id="ui_mm_quick_load">
+        <text>Быстро пробудиться</text>
+    </string>
+    <string id="ui_mm_save_game">
+        <text>Похмелиться (Сохранить игру)</text>
+    </string>
+    <string id="ui_mm_network_game">
+        <text>Стрелка на районе (Мультиплеер)</text>
+    </string>
+    <string id="ui_mm_options_n">
+        <text>Настроить приход (Опции)</text>
+    </string>
+    <string id="ui_mm_options">
+        <text>Настроить приход (Опции)</text>
+    </string>
+    <string id="ui_mm_credits">
+        <text>Соучастники (Авторы)</text>
+    </string>
+    <string id="ui_mm_quit2windows">
+        <text>Вернуться в реальность (Выход)</text>
+    </string>
+    <string id="ui_mm_quit_windows">
+        <text>Вернуться в реальность (Выход)</text>
+    </string>
+    <string id="ui_mm_quit">
+        <text>Вернуться в реальность (Выход)</text>
+    </string>
+    <string id="ui_mm_quit_game">
+        <text>Выйти на Скадовск (В меню)</text>
+    </string>
+    <string id="ui_mm_disconnect">
+        <text>Бросить поцов</text>
+    </string>
+
+    <!-- === СЛОЖНОСТЬ (СТЕПЕНЬ ОПЬЯНЕНИЯ) === -->
+    <string id="ui_mm_difficulty">
+        <text>Выбери степень опьянения:</text>
+    </string>
+    <string id="ui_mm_novice">
+        <text>Tрезвый как стёклышко (Новичок)</text>
+    </string>
+    <string id="ui_mm_gd_novice">
+        <text>Трезвый как стёклышко (Новичок)</text>
+    </string>
+    <string id="ui_mm_stalker">
+        <text>Слегка поддатый (Сталкер)</text>
+    </string>
+    <string id="ui_mm_gd_stalker">
+        <text>Слегка поддатый (Сталкер)</text>
+    </string>
+    <string id="ui_mm_veteran">
+        <text>В хлам бухой (Ветеран)</text>
+    </string>
+    <string id="ui_mm_gd_veteran">
+        <text>В хлам бухой (Ветеран)</text>
+    </string>
+    <string id="ui_mm_master">
+        <text>В сопли, до выпадения яиц (Мастер)</text>
+    </string>
+    <string id="ui_mm_gd_master">
+        <text>В сопли, до выпадения яиц (Мастер)</text>
+    </string>
+    <string id="ui_mm_back">
+        <text>Вернуться в меню</text>
+    </string>
+
+    <!-- === ПОДТВЕРЖДЕНИЕ ВЫХОДА === -->
+    <string id="ui_mm_quit_windows_message">
+        <text>Ты реально хочешь бросить Лютых поцев и вернуться к унылой трезвой жизни?</text>
+    </string>
+    <string id="ui_mm_quit_windows_explanation">
+        <text>Ты реально хочешь бросить Лютых поцев и вернуться к унылой трезвой жизни?</text>
+    </string>
+    <string id="ui_mm_quit_game_message">
+        <text>Реально хочешь завязать и выйти из игры?</text>
+    </string>
+    <string id="Btn_Yes">
+        <text>Да, задолбало</text>
+    </string>
+    <string id="Btn_No">
+        <text>Не, я ещё накачу</text>
+    </string>
+    <string id="ui_mm_yes">
+        <text>Да, задолбало</text>
+    </string>
+    <string id="ui_mm_no">
+        <text>Не, я ещё накачу</text>
+    </string>
+
+    <!-- === ВКЛАДКИ НАСТРОЕК (ВЕРХНЯЯ ПАНЕЛЬ ВНУТРИ ОПЦИЙ) === -->
+    <string id="ui_mm_video">
+        <text>Зырилка (Видео)</text>
+    </string>
+    <string id="ui_mm_sound">
+        <text>Базары (Звук)</text>
+    </string>
+    <string id="ui_mm_gameplay">
+        <text>Жизнь на районе (Игра)</text>
+    </string>
+    <string id="ui_mm_controls">
+        <text>Рулёжка (Управление)</text>
+    </string>
+
+    <!-- === ВКЛАДКА "ВИДЕО" === -->
+    <string id="ui_mm_renderer">
+        <text>Движок Похмелятора (Тип рендера)</text>
+    </string>
+    <string id="ui_mm_quality_presets">
+        <text>Чёткость картинки (Качество)</text>
+    </string>
+    <string id="ui_mm_resolution">
+        <text>Ширина зенк (Разрешение)</text>
+    </string>
+    <string id="ui_mm_gamma">
+        <text>Яркость перегара (Гамма)</text>
+    </string>
+    <string id="ui_mm_contrast">
+        <text>Контрастность разборок</text>
+    </string>
+    <string id="ui_mm_brightness">
+        <text>Свет в конце падика (Ярость)</text>
+    </string>
+    <string id="ui_mm_fullscreen">
+        <text>Во всю харю (Полный экран)</text>
+    </string>
+    <string id="ui_mm_advanced">
+        <text>Понятия для продвинутых (Расширенные)</text>
+    </string>
+
+    <!-- === ВКЛАДКА "ЗВУК" === -->
+    <string id="st_ui_mm_master_volume">
+        <text>Громкость блатняка (Общая)</text>
+    </string>
+    <string id="ui_mm_master_volume">
+        <text>Громкость блатняка (Общая)</text>
+    </string>
+    <string id="ui_mm_music_volume">
+        <text>Музон у костра (Музыка)</text>
+    </string>
+    <string id="ui_mm_snd_device">
+        <text>Магнитола (Звуковое устройство)</text>
+    </string>
+    <string id="ui_mm_eax">
+        <text>Эхо в падике (EAX)</text>
+    </string>
+    <string id="ui_mm_dynamic_music">
+        <text>Шумный гоп-стоп (Динамическая музыка)</text>
+    </string>
+
+    <!-- === ВКЛАДКА "ИГРА" === -->
+    <string id="ui_mm_show_crosshair">
+        <text>Прицел для Хуелета (Перекрестие)</text>
+    </string>
+    <string id="ui_mm_dyn_crosshair">
+        <text>Гуляющий прицел (Динамический)</text>
+    </string>
+    <string id="ui_mm_show_weapon">
+        <text>Показывать ствол</text>
+    </string>
+    <string id="ui_mm_crosshair_distance">
+        <text>Дистанция гоп-стопа (Дальномер)</text>
+    </string>
+    <string id="ui_mm_tips">
+        <text>Пацанские подсказки</text>
+    </string>
+    <string id="ui_mm_crouch_toggle">
+        <text>Залипать на кортах (Приседание кнопкой)</text>
+    </string>
+    <string id="ui_mm_important_save">
+        <text>Похмеляться перед стрелкой (Автосохранения)</text>
+    </string>
+    <string id="st_disable_hud">
+        <text>Выключить зенки (Отключить HUD)</text>
+    </string>
+    <string id="ui_mm_check_updates">
+        <text>Проверить тёрки (Обновления)</text>
+    </string>
+
+    <!-- === ВКЛАДКА "УПРАВЛЕНИЕ" === -->
+    <string id="ui_mm_mouse_sense">
+        <text>Чуйка мыши (Чувствительность)</text>
+    </string>
+    <string id="ui_mm_invert_mouse">
+        <text>Мышь через жопу (Инверсия)</text>
+    </string>
+    <string id="ui_mm_keyboard_setup">
+        <text>Расклад по кнопкам (Настройки клавиш)</text>
+    </string>
+    <string id="ui_mm_action">
+        <text>Движ (Действие)</text>
+    </string>
+    <string id="ui_mm_key">
+        <text>Кнопка</text>
+    </string>
+    <string id="ui_mm_alternative">
+        <text>Запасная кнопка</text>
+    </string>
+    <string id="ui_mm_default">
+        <text>Как было (По умолчанию)</text>
+    </string>
+
+    <!-- === КНОПКИ СНИЗУ НАСТРОЕК === -->
+    <string id="ui_mm_apply">
+        <text>БАЗАРУ ЗИРА (Применить)</text>
+    </string>
+    <string id="ui_mm_cancel">
+        <text>В ХЫХ (Отмена)</text>
+    </string>
+
+</string_table>
